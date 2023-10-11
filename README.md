@@ -1,11 +1,17 @@
 # map-route-animation
 
-• Create a Mapbox account and get the access token
+Description:
 
-• Add the access token to the mapboxgl instance defined in the mapanimation.js
+This HTML document displays a map using Mapbox and a button to animate a marker's movement along predefined bus stops between Gandhipuram and Sulur.
 
-• Create a marker and add it to the map using the mapboxgl pre-built functions.
+How to run the code:
 
-• The function move() is called when the button "Show stops between MIT and Harvard" is selected. This is how you can start the marker animation.
+step1:Save the HTML file with .html extension.
 
-• If your code works, you should be able to see a marker moving from one bus stop to the next on the map.
+step2:Click the "Go Live" button.A new browser window will open, displaying map moving from one place to another place.
+
+Future Enhancement:
+
+1)Display real-time bus location data on the map for a more practical application.
+
+2)Add interactive features like bus stop information on click or route selection options.
